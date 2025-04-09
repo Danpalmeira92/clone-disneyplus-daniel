@@ -36,6 +36,11 @@
                 overflow: hidden;
                 padding: 0 24px;
                 transition: height, 0.5s ease;
+
+                &__lista {
+                    margin-top: 24px;
+                    margin-left: 56px;
+                }
             }
 
             &--is-open {
